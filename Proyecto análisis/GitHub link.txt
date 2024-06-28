@@ -1,4 +1,0 @@
-Proyecto de análisis de datos 
-
-Link del repositorio en GitHub : https://github.com/cindy-goyburo/an-lisis-project
-En el notebook  de jupyter al final se encuentra el link del repositorio.
